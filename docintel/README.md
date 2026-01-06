@@ -1,6 +1,6 @@
 # DocIntel
 
-A production-ready document intelligence platform that enables semantic search and question-answering over your documents using Retrieval Augmented Generation (RAG).
+Intelligence platform that enables semantic search and question-answering over documents using Retrieval Augmented Generation (RAG).
 
 ## Features
 
